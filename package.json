@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/DataDog/supreme-goggles/issues"
   },
-  "homepage": "https://github.com/DataDog/supreme-goggles#readme"
+  "homepage": "https://github.com/DataDog/supreme-goggles#readme",
+  "publishConfig": {
+    "provenance": true
+  },
 }
