@@ -1,12 +1,19 @@
 {
-  "name": "supreme-goggles",
+  "name": "@datadog/supreme-goggles",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DataDog/supreme-goggles.git"
+  },
+  "author": "Datadog",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DataDog/supreme-goggles/issues"
+  },
+  "homepage": "https://github.com/DataDog/supreme-goggles#readme"
 }
