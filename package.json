@@ -1,5 +1,5 @@
 {
-  "name": "@datadog/supreme-goggles",
+  "name": "@trishankatdatadog/supreme-goggles",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/DataDog/supreme-goggles.git"
   },
-  "author": "Datadog",
+  "author": "https://github.com/trishankatdatadog",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/DataDog/supreme-goggles/issues"
