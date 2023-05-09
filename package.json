@@ -1,6 +1,6 @@
 {
   "name": "@trishankatdatadog/supreme-goggles",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DataDog/supreme-goggles.git"
+    "url": "git+https://github.com/trishankatdatadog/supreme-goggles"
   },
   "author": "https://github.com/trishankatdatadog",
   "license": "ISC",
